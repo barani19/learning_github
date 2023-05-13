@@ -70,5 +70,9 @@ copy of the anyone code to youe account using fork
 !!=> git pull url
 (also download)
 
+!!=> git pull --rebase origin name
+{ it is used when we add one or more commits in same repository }
+
+
 
  
